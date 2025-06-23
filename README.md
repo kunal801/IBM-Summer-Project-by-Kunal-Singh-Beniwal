@@ -31,3 +31,20 @@ A smart and intuitive inventory management dashboard designed to help merchants 
 ```bash
 git clone https://github.com/your-username/ai-merchant-inventory.git
 cd ai-merchant-inventory
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the App
+```bash
+python app.py
+```
+### 4. Upload Inventory CSV File
+```bash
+Product Name,Category,Cost Price
+LED TV,electronics,15000
+T-Shirt,fashion,300
+Rice Pack,grocery,700
+Wooden Chair,furniture,2500
+```
