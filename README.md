@@ -48,3 +48,6 @@ T-Shirt,fashion,300
 Rice Pack,grocery,700
 Wooden Chair,furniture,2500
 ```
+
+### Screenshot
+<img width="938" alt="Screenshot 2025-06-24 at 1 44 11 AM" src="https://github.com/user-attachments/assets/dc079e4f-ee8b-4b64-9a13-693ffa315415" />
