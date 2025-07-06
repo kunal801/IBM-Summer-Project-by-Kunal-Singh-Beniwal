@@ -54,9 +54,10 @@ Wooden Chair,furniture,2500
 
 
 
-from pathlib import Path
 
-readme_content = """
+
+-------------
+
 
 # Project - 2. 🎯 AI-Powered Career Guidance Assistant (By Kunal Singh Beniwal)
 
