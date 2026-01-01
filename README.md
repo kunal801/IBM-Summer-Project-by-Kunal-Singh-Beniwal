@@ -1,4 +1,4 @@
-# Project - 1. 🧠 AI-Powered Merchant Inventory Intelligence Dashboard
+# Project - AI-Powered Merchant Inventory Intelligence Dashboard v2.0
 
 A smart and intuitive inventory management dashboard designed to help merchants make informed pricing and discounting decisions using AI. Built using Python, Pandas, and Gradio.
 
@@ -111,5 +111,9 @@ Do you like structured jobs or dynamic environments?
 ### 👨‍🎓 Developed By
 
 ## Kunal Singh Beniwal
-Vellore Institute of Technology
-kunalsingh.beniwal2022@vitstudent.ac.in
+Vellore Institute of Technology, VIT, Tamil Nadu
+kunalsingh.beniwal2022@vitstudent.ac.in (University Mail)
+kunal.beniwal.kb@gmail.com (Personal Mail)
+
+v1.0 Updated on 10th July 2025
+v2.0 Updated on 1st Jan 2026
